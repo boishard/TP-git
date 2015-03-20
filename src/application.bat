@@ -1,4 +1,4 @@
-###application.bat - 201x - Boishardy###
+###application.bat - 201x - Boishardy Alexandre Jourdain###
 version = "2"
 Build_hour = "11:00"
 
