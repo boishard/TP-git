@@ -1,1 +1,2 @@
-pplication.bat - 201x - Boishardy ###
+application.bat - 2015 - Boishardy ###
+version = "1.2"
