@@ -1,5 +1,7 @@
 ###application.bat - 201x - Boishardy###
-echo "Copyright iia - 201x"
-echo "Build : 10:00"
-echo "version1.1"
+version = "2"
+Build_hour = "11:00"
+
+echo "Build ${build_hour}"
+echo "version${version}"
 
